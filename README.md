@@ -56,3 +56,10 @@ This project uses the following Python libraries:
 
 To install `pandas` version 2.2.2, you can use pip:
 `pip install pandas`
+
+
+### Cite this Work
+**DIPSER: A Dataset for In-Person Student Engagement Recognition in the Wild**  
+Luis Marquez-Carpintero, Sergio Suescun-Ferrandiz, Carolina Lorenzo Álvarez, Jorge Fernandez-Herrero, Diego Viejo, Rosabel Roig-Vila, Miguel Cazorla  
+_Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI)_  
+arXiv: [2502.20209v2](https://doi.org/10.48550/arXiv.2502.20209) [cs.CV], 2 Mar 2025 
