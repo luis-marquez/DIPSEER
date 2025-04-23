@@ -3,6 +3,7 @@
 
 This project is designed to process experimental data including images, labels, and sensor data. It creates a chronologically ordered dataframe assigning an emotion and attention label to each of the collected data or metadata. The project's structure uses a modular approach with specific classes for each task. The main script allows specifying the `experiment`, `subject`, and `group` from the command line.
 
+
 ## Project Structure
 ```
 project/
@@ -57,6 +58,9 @@ This project uses the following Python libraries:
 To install `pandas` version 2.2.2, you can use pip:
 `pip install pandas`
 
+
+## Data Access:
+`https://www.scidb.cn/en/detail?dataSetId=7856c716c0cc4589a23ee4a23d8a0893`
 
 ### Cite this Work
 **DIPSER: A Dataset for In-Person Student Engagement Recognition in the Wild**  
